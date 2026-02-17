@@ -10,7 +10,7 @@ A basic Android app to write and save notes locally using SQLite
  -Local SQLite database storage
  -simple and clean UI
 
-### How to run
+## How to run
 
  1.clone the repo. 
  2.open the project in android studio 
