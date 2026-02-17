@@ -3,7 +3,7 @@ A basic Android app to write and save notes locally using SQLite
 ## Features
 -Add notes and save them locally
 -prevent saving empty notes
-Delete notes by lon press
+-Delete notes by long press
 -Local SQLite database storage
 -simple and clean UI
 ### How to run
